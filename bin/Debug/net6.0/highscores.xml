@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Score>
+    <PlayerName>gojooo</PlayerName>
+    <Value>2140</Value>
+  </Score>
+  <Score>
+    <PlayerName>peepee</PlayerName>
+    <Value>2120</Value>
+  </Score>
+  <Score>
+    <PlayerName>spidey</PlayerName>
+    <Value>1420</Value>
+  </Score>
+  <Score>
+    <PlayerName>oscarisaac</PlayerName>
+    <Value>460</Value>
+  </Score>
+  <Score>
+    <PlayerName>okooo</PlayerName>
+    <Value>310</Value>
+  </Score>
+  <Score>
+    <PlayerName>skesksksks</PlayerName>
+    <Value>290</Value>
+  </Score>
+  <Score>
+    <PlayerName>Hasanabi</PlayerName>
+    <Value>290</Value>
+  </Score>
+  <Score>
+    <PlayerName>lmao</PlayerName>
+    <Value>280</Value>
+  </Score>
+  <Score>
+    <PlayerName>sdsfsg</PlayerName>
+    <Value>250</Value>
+  </Score>
+  <Score>
+    <PlayerName>Snika</PlayerName>
+    <Value>230</Value>
+  </Score>
+</ArrayOfScore>
